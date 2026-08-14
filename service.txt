@@ -1,4 +1,8 @@
 # Ghi nội dung khởi đầu vào file
 echo "=== SYSTEM CONFIG ===" > service.txt
 echo "PORT=8080" >> service.txt
+<<<<<<< HEAD
 echo "STATUS=Running in Production mode (Ready)" >> service.txt
+=======
+echo "STATUS=Running in Vietnamese mode (San sang hoat dong)" >> service.txt
+>>>>>>> feature-a
