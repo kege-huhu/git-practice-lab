@@ -1,0 +1,4 @@
+# Ghi nội dung khởi đầu vào file
+echo "=== SYSTEM CONFIG ===" > service.txt
+echo "PORT=8080" >> service.txt
+echo "STATUS=Initializing" >> service.txt
